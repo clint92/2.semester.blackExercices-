@@ -1,0 +1,3 @@
+susanne 2 10
+bananer 10 2
+cola 1 15

@@ -1,0 +1,4 @@
+Item: slik... Quantity: 4 Price: 40960.0 Kr.
+Item: banan... Quantity: 1 Price: 5.0 Kr.
+Item: choko... Quantity: 2 Price: 128.0 Kr.
+

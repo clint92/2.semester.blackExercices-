@@ -1,0 +1,2 @@
+Item: smør. Quantity: 2. Price: 30.0 Kr.
+
